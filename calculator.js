@@ -5,7 +5,7 @@ Node.js & npm Lab — CLI Calculator
 
 ===================================================================
 LAB CREATION INSTRUCTIONS
-===================================================================
+==================================================================
 
 1. Create a folder name it as utils.
 2. Inside the utils folder create an operation.js file and parser.js.
