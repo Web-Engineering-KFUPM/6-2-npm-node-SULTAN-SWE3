@@ -1,0 +1,13 @@
+{
+  "name": "6-2-npm-node-sultan-swe3",
+  "version": "1.0.0",
+  "description": "Node.js and npm lab CLI calculator",
+  "type": "module",
+  "main": "calculator.js",
+  "scripts": {
+    "grade": "node scripts/grade.cjs"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
